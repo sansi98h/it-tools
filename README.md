@@ -4,7 +4,26 @@
     <img src="./.github/logo-dark.png" alt="logo">
 </picture>
 
-Useful tools for developer and people working in IT. [Have a look !](https://it-tools.tech).
+<p align="center">
+Useful tools for developer and people working in IT. <a href="https://it-tools.tech">Try it!</a>
+</p>
+
+
+## Sponsors
+
+<div align="center" markdown="1">
+<p align="center">
+  IT-Tools is proudly sponsored by:
+</p>
+
+<a href="https://go.warp.dev/it-tools">
+  <img alt="Warp sponsorship" width="400" src="https://raw.githubusercontent.com/warpdotdev/brand-assets/refs/heads/main/Github/Sponsor/Warp-Github-LG-01.png">
+</a>
+
+### [Warp, built for coding with multiple AI agents.](https://go.warp.dev/it-tools)
+[Available for MacOS, Linux, & Windows](https://go.warp.dev/it-tools)<br>
+
+</div>
 
 ## Functionalities and roadmap
 
@@ -113,11 +132,11 @@ It will create a directory in `src/tools` with the correct files, and a the impo
 
 Big thanks to all the people who have already contributed!
 
-[![contributors](https://contrib.rocks/image?repo=corentinth/it-tools)](https://github.com/corentinth/it-tools/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=corentinth/it-tools&refresh=1)](https://github.com/corentinth/it-tools/graphs/contributors)
 
 ## Credits
 
-Coded with ❤️ by [Corentin Thomasset](//corentin-thomasset.fr).
+Coded with ❤️ by [Corentin Thomasset](https://corentin.tech?utm_source=it-tools&utm_medium=readme).
 
 This project is continuously deployed using [vercel.com](https://vercel.com).
 
